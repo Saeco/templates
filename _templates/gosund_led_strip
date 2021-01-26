@@ -15,4 +15,5 @@ standard: global
 ---
 
 Other versions of the controller might use a different layout.
-Version BT01-T-V2.2 of the board uses GPIO5 for PWM2 (instead of GPIO15): 
+Version BT01-T-V2.2 of the board uses GPIO5 for PWM2 (instead of GPIO15):
+Some versions of BT01-T-V2.2 seems to have the button connected to GPIO4
